@@ -11,6 +11,7 @@
 		C90C0A73290AF357008ECCE5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90C0A72290AF357008ECCE5 /* ContentView.swift */; };
 		C90C0A75290AF357008ECCE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C90C0A74290AF357008ECCE5 /* Assets.xcassets */; };
 		C90C0A78290AF357008ECCE5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C90C0A77290AF357008ECCE5 /* Preview Assets.xcassets */; };
+		C90C0A7F290AFA66008ECCE5 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = C90C0A7E290AFA66008ECCE5 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		C90C0A72290AF357008ECCE5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C90C0A74290AF357008ECCE5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C90C0A77290AF357008ECCE5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C90C0A7E290AFA66008ECCE5 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				C90C0A70290AF357008ECCE5 /* ApiFetcherApp.swift */,
 				C90C0A72290AF357008ECCE5 /* ContentView.swift */,
+				C90C0A7E290AFA66008ECCE5 /* Model.swift */,
 				C90C0A74290AF357008ECCE5 /* Assets.xcassets */,
 				C90C0A76290AF357008ECCE5 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C90C0A7F290AFA66008ECCE5 /* Model.swift in Sources */,
 				C90C0A73290AF357008ECCE5 /* ContentView.swift in Sources */,
 				C90C0A71290AF357008ECCE5 /* ApiFetcherApp.swift in Sources */,
 			);

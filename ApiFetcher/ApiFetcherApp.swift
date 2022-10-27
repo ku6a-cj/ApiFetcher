@@ -12,6 +12,8 @@ struct ApiFetcherApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+
         }
     }
 }
+
